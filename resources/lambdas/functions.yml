@@ -1,0 +1,3 @@
+databaseMigrations:
+  handler: functions/database/migrations/index.handler
+  role: LambdaServiceRole
